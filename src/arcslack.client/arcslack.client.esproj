@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.1738743">
+  <PropertyGroup>
+    <BuildOutputFolder>$(MSBuildProjectDirectory)\dist</BuildOutputFolder>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include=".vscode\.vs\.vscode\v17\DocumentLayout.json" />
+    <None Include=".vscode\.vs\ProjectSettings.json" />
+    <None Include=".vscode\.vs\slnx.sqlite" />
+    <None Include=".vscode\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+</Project>
